@@ -1,0 +1,1 @@
+print(int(sum([i ** 0.5 for i in list(map(int, input().split()))])))
